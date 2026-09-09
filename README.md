@@ -1,4 +1,4 @@
-# Car Price Prediction with Machine Learning (EXPS Nexus Internship)
+# Car Price Prediction with Machine Learning 
 
 > **Author / Created By:** Syed Shabih Ahmed (EXPS Nexus Data Science Intern)
 
